@@ -1,0 +1,15 @@
+{
+  "name": "enlaceitWeb",
+  "homepage": "https://github.com/G33N/enlaceitWeb",
+  "authors": [
+    "G33N <mceliz@enlaceit.com.ar>"
+  ],
+  "description": "Mi sitio web",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "aos": "^2.1.1"
+  }
+}

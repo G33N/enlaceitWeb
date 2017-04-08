@@ -1,0 +1,20 @@
+.logoType{
+  height: 1em;
+  width: auto;
+}
+.navbar-default{
+  background-color: #FFFFFF;
+}
+body{
+  background-color: #F2F2F2;
+}
+.navbar-collapse .collapse li hover{
+  background-color: #E4E4E4;
+}
+.font-roboto{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+.container{
+  background-color: #FFFFFF;
+}
