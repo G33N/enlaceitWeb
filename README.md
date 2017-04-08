@@ -22,5 +22,4 @@ Enlace IT - Argentina 2017
 * [Web site](http://enlaceit.com.ar)
 * [Facebook](https://www.facebook.com/enlaceit21h)
 * [GitHub](https://github.com/G33N/)
-+5492996739666
-mceliz@enlaceit.com.ar
+* Email: mceliz@enlaceit.com.ar
