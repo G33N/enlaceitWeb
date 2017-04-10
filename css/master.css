@@ -4,7 +4,7 @@
 }
 
 .navbar-default {
-    background-color: #FFFFFF;
+    background: rgba(255, 255, 255, 0.6);
 }
 
 body {
@@ -56,7 +56,7 @@ section {
 }
 
 .services-section {
-    background: url('../img/headerBackground.jpg') no-repeat center center fixed;
+    background: url('../img/servicesBackground.jpg') no-repeat center center fixed;
     text-align: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -499,6 +499,10 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none
+}
+.div-center{
+    display: flex;
+    align-items: center;
 }
 
 .portfolio .portfolio-item {
